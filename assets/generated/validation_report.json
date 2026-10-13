@@ -1,0 +1,95 @@
+{
+  "assets": {
+    "savanna_acacia": {
+      "bounds": {
+        "dimensions_m": [
+          11.6833,
+          11.1034,
+          8.0067
+        ],
+        "maximum_m": [
+          5.9306,
+          5.8989,
+          7.8788
+        ],
+        "minimum_m": [
+          -5.7527,
+          -5.2046,
+          -0.128
+        ]
+      },
+      "cameras": [],
+      "errors": [],
+      "file": "assets/generated/savanna_acacia.glb",
+      "file_bytes": 506972,
+      "lights": [],
+      "materials": [
+        "Acacia Bark",
+        "Deep Bark Creases",
+        "Leaves - Deep",
+        "Leaves - Fresh",
+        "Leaves - Lime Tips",
+        "Leaves - Sunlit",
+        "Seed Pods",
+        "Sunlit Bark"
+      ],
+      "mesh_objects": 91,
+      "sha256": "44f9fc2a132a965bb82130fca147880155ed52ae40b586f813c9cc5fab48a604",
+      "status": "PASS",
+      "triangles": 20068,
+      "vertices": 13272
+    },
+    "savanna_village_house": {
+      "bounds": {
+        "dimensions_m": [
+          6.7193,
+          7.6047,
+          6.33
+        ],
+        "maximum_m": [
+          3.3596,
+          3.3526,
+          6.27
+        ],
+        "minimum_m": [
+          -3.3596,
+          -4.2521,
+          -0.06
+        ]
+      },
+      "cameras": [],
+      "errors": [],
+      "file": "assets/generated/savanna_village_house.glb",
+      "file_bytes": 1006760,
+      "lights": [],
+      "materials": [
+        "Carved Dark Wood",
+        "Cool Window Glass",
+        "Deep Terracotta",
+        "Foundation Stone - Dark",
+        "Foundation Stone - Gold",
+        "Foundation Stone - Red",
+        "Painted Coral",
+        "Painted Cream",
+        "Painted Turquoise",
+        "Plaster Highlights",
+        "Sunbaked Ochre Plaster",
+        "Sunlit Wood",
+        "Thatch - Deep",
+        "Thatch - Golden",
+        "Thatch - Sunlit"
+      ],
+      "mesh_objects": 168,
+      "sha256": "0d00c9ab2d86e672ac7e80295374c2c442c682eaecac3005c1ae08b0d1a436b3",
+      "status": "PASS",
+      "triangles": 23636,
+      "vertices": 25200
+    }
+  },
+  "blender_version": "4.2.10 LTS",
+  "limits": {
+    "maximum_file_bytes": 26214400,
+    "maximum_triangles": 125000
+  },
+  "status": "PASS"
+}
